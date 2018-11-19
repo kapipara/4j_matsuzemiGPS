@@ -1,0 +1,4 @@
+https://www.enri.go.jp/report/hapichi/pdf2003/09_matsunaga.pdf
+日本は高緯度なので，電離層遅延が大きい
+QZSSから発信される電離層補正データでちょっと精度あがる
+GPSモジュール振ると精度かなりガバる→ノイズが原因？
